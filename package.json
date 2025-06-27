@@ -11,11 +11,15 @@
   "dependencies": {
     "expo": "~53.0.13",
     "expo-status-bar": "~2.2.3",
+    "i18next": "^25.2.1",
     "react": "19.0.0",
+    "react-i18next": "^15.5.3",
     "react-native": "0.79.4"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "@types/react": "~19.0.10",
+    "typescript": "~5.8.3"
   },
   "private": true
 }
