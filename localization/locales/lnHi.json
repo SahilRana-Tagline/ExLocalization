@@ -1,3 +1,10 @@
 {
-    "Hello": "नमस्ते, आप कैसे हैं?"
+  "Hello": "नमस्ते",
+  "How Are you?": "आप कैसे हैं?",
+  "Game": "खेल",
+  "Email Address": "मेल पता",
+  "Piyush Pandav": "पीयूष पांडव",
+  "Sahil Rana": "साहिल राणा",
+  "React Native": "रिएक्ट नेटिव",
+  "App Name": "ऐप का नाम"
 }

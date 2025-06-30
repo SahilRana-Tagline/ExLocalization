@@ -1,3 +1,10 @@
 {
-    "Hello": "Hello, How Are you?"
+  "Hello": "Hello",
+  "How Are you?": "How Are you?",
+  "Game": "Game",
+  "Email Address": "Email Address",
+  "Piyush Pandav": "Piyush Pandav",
+  "Sahil Rana": "Sahil Rana",
+  "React Native": "React Native",
+  "App Name": "App Name"
 }
